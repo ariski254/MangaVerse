@@ -1,16 +1,15 @@
-# flutter_application_1
+# MangaVerse
 
-A new Flutter project.
+Selamat datang di [Nama Aplikasi] – Surga untuk Pecinta Manga!
+Apakah Anda penggemar manga yang selalu mencari cara terbaik untuk menikmati kisah-kisah favorit Anda? Dengan MangaVerse, Anda dapat menjelajahi ribuan judul manga dari berbagai genre, semuanya hanya dalam satu aplikasi!
 
-## Getting Started
+- Koleksi Lengkap: Temukan berbagai judul manga populer, dari aksi yang mendebarkan hingga romansa yang menyentuh hati.
+- Update Terbaru: Nikmati pembaruan reguler dengan chapter terbaru dari manga favorit Anda, sehingga Anda tidak akan ketinggalan cerita.
+- Antarmuka Ramah Pengguna: Dengan desain yang intuitif, Anda dapat dengan mudah mencari dan membaca manga tanpa kesulitan.
+- Fitur Bookmark: Tandai chapter yang sudah Anda baca sehingga Anda dapat melanjutkan dari tempat terakhir dengan mudah.
+  Bergabunglah dengan komunitas pembaca manga dan temukan teman baru yang memiliki minat yang sama. Dengan MangaVerse, setiap halaman adalah petualangan baru!
+  Unduh sekarang dan mulailah perjalanan membaca manga Anda hari ini!
 
-This project is a starting point for a Flutter application.
+## Authors
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@ariski254](https://github.com/ariski254)
